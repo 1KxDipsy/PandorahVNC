@@ -1,4 +1,7 @@
+Using System;
+
 namespace HVNC.Utils
+
 {
 	internal class BuildInfo
 	{
