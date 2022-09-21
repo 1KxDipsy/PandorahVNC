@@ -1,5 +1,3 @@
-Using System;
-
 namespace HVNC.Utils
 
 {
